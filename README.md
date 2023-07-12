@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alecccg03
 - 👀 I’m interested in frontend and backend development
-- 🌱 I’m currently learning DSA before I jump into backend development
+- 🌱 I’m currently learning C++ and have a good understanding of DSA
 - 📫 How to reach me 
 -   email: alecg03@comcast.net
 
