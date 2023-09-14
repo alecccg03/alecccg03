@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alecccg03
-- 👀 I’m interested in frontend and backend development
-- 🌱 I’m currently learning C++ and have a good understanding of DSA
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning how to make my own API with node.js
 - 📫 How to reach me 
--   email: alecg03@comcast.net
+-   email: alecgarcia2817@gmail.com
 
 <!---
 alecccg03/alecccg03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
