@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alecccg03
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning how to make my own API with node.js
 - 📫 How to reach me 
 -   email: alecgarcia2817@gmail.com
 -   personal website: https://alec-garcia.netlify.app
